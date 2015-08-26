@@ -8,15 +8,14 @@ Wanna use it? Simply open a workspace in any Pharo distribution and un the follo
     configurationOf: 'KVC';
     loadVersion: #stable.
 
-
------
-
 KV-Constructor brings to the table a simple and easy way to teach custom constructors without having the knowledge of static messages!. Just plug&play. Inheritance supported. Zero configuration. Unlimited instanciation fun guaranteed!
 
 Just add TKeyValueConstructor to your class as a Trait and you are ready to go! KV-Constructor expose a single class method for you to use: *newKV:*. 
 
 Feed that method a literal array with this pattern: *{#var1 -> 10. #var2 -> true}*
 But be careful, making a typo in the variable name will produce that value not to be set.
+
+-----
 
 Example
 

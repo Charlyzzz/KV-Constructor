@@ -17,7 +17,7 @@ But be careful, making a typo in the variable name will produce that value not t
 
 -----
 
-<h1> Integration <h1>
+<h1> Integration </h1>
 
     Object subclass: #MyClass
     uses: TKeyValueConstructor

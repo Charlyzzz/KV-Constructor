@@ -25,6 +25,6 @@ But be careful, making a typo in the variable name will produce that value not t
     classVariableNames: ''
     category: 'KVC'
 
-<h1> Use <h1>
+<h1> Use </h1>
 
     myInstance := MyClass newKV: {#foo1 -> 'Hello there'. #foo2 -> 'Im just a constructor!'}
